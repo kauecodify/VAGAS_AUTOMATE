@@ -6,6 +6,9 @@ Automação open‑source em Python que lê informações chave do seu currícul
 
 ## Principais Recursos
 
+![image](https://github.com/user-attachments/assets/38ece46f-40e4-4ce6-9cd1-69723db79e05)
+
+
 | Funcionalidade                      | Descrição                                                                                                    |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Interface Tkinter**               | GUI para selecionar o currículo, definir número máximo de candidaturas e iniciar o bot sem linha de comando. |
