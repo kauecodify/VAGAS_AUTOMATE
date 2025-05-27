@@ -121,3 +121,7 @@ Distribuído sob a licença **MIT**. Veja `LICENSE` para detalhes.
 ---
 
 ### Feliz caça – vagas! 🚀
+
+![anonymous-minneapolis](https://github.com/user-attachments/assets/669aadbc-d4c1-4786-b85e-cfaffcd7ebcb)
+
+
